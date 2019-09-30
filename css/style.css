@@ -2270,3 +2270,11 @@ a.move-top span {
 }
 
 /*--//responsive--*/
+
+img.album:hover {
+    opacity: .8;
+}
+
+a,img {
+    transition: all 0.3s ease;
+  }
